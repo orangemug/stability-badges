@@ -6,6 +6,13 @@ SVG badges for projects based on the [Node stability index](http://nodejs.org/ap
 Badges with node stability index descriptions slightly changed to remove the 'feature' references.
 
 
+### Work in progress
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
+This is a 'work in progress' and is not ready for use of any kind at this time.
+
+    ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 ### Deprecated
 ![stability-deprecated](https://img.shields.io/badge/stability-deprecated-red.svg)
 
